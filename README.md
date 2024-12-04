@@ -14,11 +14,8 @@ The files contained in this repository are as follows:
 
 ## Requirements
 
-* Python
-* Numpy
-* Pandas
-* Keras
-* Tensorflow
+* Python == 3.9.20
+* Other requirements specified in [requirements.txt](requirements.txt)
 
 ## Usage
 
